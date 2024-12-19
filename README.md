@@ -10,6 +10,8 @@ Pulse Code is a simple interpreted language designed for educational purposes an
 - **Type Casting**: Cast variables to different types (`int`, `str`, `bool`, `float`).
 - **Printing**: Output values to the console.
 
+See full API refercne here [API ref](https://github.com/torinriley/Pulse/blob/main/docs/API.md)
+
 ## Example Code
 ```plaintext
 x = 0
